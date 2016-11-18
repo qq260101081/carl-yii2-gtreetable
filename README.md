@@ -15,12 +15,12 @@ Installation is realized by [Composer](https://getcomposer.org).
 In the console write:
 
 ```
-composer require gilek/yii2-gtreetable "*"
+composer require carl/yii2-gtreetable "*"
 ```
 or add following line in `require` section of `composer.json` file.
 
 ```
-"gilek/yii2-gtreetable": "*"
+"carl/yii2-gtreetable": "*"
 ```
 
 One more thing, don't forget about the `fxp/composer-asset-plugin` installation:

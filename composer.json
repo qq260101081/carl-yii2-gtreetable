@@ -20,6 +20,7 @@
         "bower-asset/jquery.browser": "*",
         "bower-asset/URIjs": "1.14.*"      
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "gilek\\gtreetable\\": ""
